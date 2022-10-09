@@ -1,0 +1,7 @@
+{
+    "posts": [
+        {"id": 1, "title": "JS Post 1", "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sollicitudin libero odio, sit amet semper mi laoreet in. Nunc ac nunc elit. Donec ut rhoncus est. Phasellus eget metus et ipsum posuere dapibus. Maecenas condimentum sit amet mi a sodales. Ut feugiat dui non varius posuere. Sed accumsan mauris ligula."},
+        {"id": 2, "title": "JS Post 2", "body": "Sed ut nisi enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer sodales condimentum faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus id felis ac risus aliquam ultrices."},
+        {"id": 3, "title": "JS Post 3", "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sollicitudin libero odio, sit amet semper mi laoreet in. Nunc ac nunc elit. Donec ut rhoncus est. Phasellus eget metus et ipsum posuere dapibus. Maecenas condimentum sit amet mi a sodales. Ut feugiat dui non varius posuere. Sed accumsan mauris ligula."}
+    ] 
+}
